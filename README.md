@@ -1,1 +1,1 @@
-# CIT-1300-S26
+# Web 1320 Class projects
